@@ -28,8 +28,7 @@ def get_filters():
                      print('Enter a valid city')
     # TO DO: get user input for month (all, january, february, ... , june)
     while True:
-        month = input('\nWhich month do you want to filter?\n January, Febuary, March, April, May, June or All:  ')
-        month = month.lower()
+        month = input('\nWhich month do you want to filter?\n January, Febuary, March, April, May, June or All:  ').lower()
         if month in months:
                       break
         else :
