@@ -5,7 +5,7 @@ Project Title
 Post your work on Git Hub
 
 ### Description
-Describe what your project is about and what it does
+The project test your understanding of Git which is a distributed version tool and GitHub a service that host Git projects
 
 ### Files used
 Include the files used
